@@ -12,4 +12,3 @@ public class Java {
         return false;
     }
 }
-}
