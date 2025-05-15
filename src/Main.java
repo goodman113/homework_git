@@ -2,10 +2,8 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-
-
-        System.out.println("hello");
-        System.out.println("hello nurilloh");
-        System.out.println("kak dela");
+        for (int i = 0; i < 10; i++) {
+            System.out.println("Nurulloh");
+        }
     }
 }
