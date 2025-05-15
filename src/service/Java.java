@@ -1,6 +1,8 @@
 package service;
 
 public class Java {
+
+    //Muhammadali nma gap
     public boolean checkPassword(){
         Java java = new Java();
         if (java.checkPassword()){
@@ -9,4 +11,5 @@ public class Java {
         }
         return false;
     }
+}
 }
